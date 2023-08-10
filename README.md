@@ -2,4 +2,4 @@
 
 <a href="https://chrysus.dev/" target="_blank"><img src="https://chrysus.dev/assets/images/business/intro.png?"></a> 
 
-<a href="https://www.torn.com/1962321"><img src="https://www.torn.com/sigs/3_1962321.png"></a>
+<a href="https://www.torn.com/1962321"><img src=")https://www.torn.com/signature.php?id=3&user=1962321&v=1528808940574"></a>
